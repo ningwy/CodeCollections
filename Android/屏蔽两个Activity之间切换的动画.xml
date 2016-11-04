@@ -1,4 +1,4 @@
-给Activity配置如下主题属性即可：
+<!-- 给Activity配置如下主题属性即可： -->
 
 <style name="noAnimation">
     <item name="android:activityOpenEnterAnimation">@null</item>
