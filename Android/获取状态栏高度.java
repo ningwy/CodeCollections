@@ -1,4 +1,4 @@
-
+/*
 * 用于获取状态栏的高度。
 * @return 返回状态栏高度的像素值。
 导入包java.lang.reflect.Field
